@@ -114,7 +114,7 @@ module FinnhubRuby
     # Finnhub industry classification.
     attr_accessor :finnhub_industry
 
-    # Finnhub industry classification.
+    # Fundamental freq
     attr_accessor :fundamental_freq
 
     # Attribute mapping from ruby-style variable name to JSON key.
